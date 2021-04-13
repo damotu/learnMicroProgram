@@ -1,0 +1,9 @@
+/* home/home.wxss */
+
+.title{
+  color: red;
+  font-size: 16px;
+}
+button{
+  color:blue
+}
